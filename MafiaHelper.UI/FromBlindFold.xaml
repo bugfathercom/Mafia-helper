@@ -1,0 +1,17 @@
+﻿<Window x:Class="MafiaHelper.WindowBlindFold"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MafiaHelper"
+        mc:Ignorable="d"
+           WindowStyle="None"
+       ResizeMode="NoResize"
+        Background="Transparent"
+                     Width="{x:Static SystemParameters.PrimaryScreenWidth}"
+             Height="{x:Static SystemParameters.PrimaryScreenHeight}"
+        Title="FromBlindFold"  Loaded="Window_Loaded">
+    <Grid Height="434" VerticalAlignment="Bottom">
+
+    </Grid>
+</Window>
