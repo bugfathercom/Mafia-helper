@@ -86,7 +86,7 @@ Just install .net framework 4.8 runtime and get a build out of the project and y
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is the steps you need to take for installing mafia helper_
 
 1. Download and install .NET framwork 4.8 at [Microsoft-website](https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-8-offline-installer-for-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
 2. Clone the repo
@@ -95,7 +95,8 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 3. Open the .sln file and the folder
  
-4. Enjoy!
+4. Create a build
+4. Open bin/release folder and Enjoy!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,9 +106,13 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
+My website - [Bugfather.com](https://bugfather.com) 
+
+Email:  sohrab.askarzaade@gmail.com
+
 My instagram - [@bugfathercom](https://instagram.com/bugfathercom) - sohrab.askarzaade@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/bugfathercom/mafia-helper)
+Project Link: [mafia-helper](https://github.com/bugfathercom/mafia-helper)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
